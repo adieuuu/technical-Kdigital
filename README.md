@@ -1,3 +1,5 @@
+Sebelum menjalankan program diharapkan untuk melakukan npm install terlebih dahulu. Terimakasih
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
